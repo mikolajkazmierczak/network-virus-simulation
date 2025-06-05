@@ -1,6 +1,6 @@
 # network-virus-simulation
 
-[network-virus-simulation.pdf](https://github.com/mikolajkazmierczak/network-virus-simulation/blob/main/network-virus-simulation.pdf
+[network-virus-simulation.pdf](https://github.com/mikolajkazmierczak/network-virus-simulation/blob/main/network-virus-simulation.pdf)
 
 **Note:** The whole report with the details of the project can be found in the pdf file above (that is also in the repository).
 
